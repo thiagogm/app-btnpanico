@@ -14,6 +14,6 @@ body {
     color: white;
     background-color: red;
     border: none;
-    border-radius: 1px;
+    border-radius: 30px;
     cursor: pointer;
 }
