@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
     display: flex;
     align-items: center;
@@ -17,3 +18,24 @@ body {
     border-radius: 1px;
     cursor: pointer;
 }
+=======
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f8f8f8;
+}
+
+#panicButton {
+    padding: 20px;
+    font-size: 1.5em;
+    color: white;
+    background-color: red;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+>>>>>>> 4fbdca2dce90f405a5d8615d9308654ffeb0661d
