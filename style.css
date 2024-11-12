@@ -2,7 +2,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 100vh;
+    height: 1000vh;
     margin: 0;
     font-family: Arial, sans-serif;
     background-color: #f8f8f8;
@@ -16,4 +16,5 @@ body {
     border: none;
     border-radius: 30px;
     cursor: pointer;
+    display: none;
 }
